@@ -1,0 +1,11 @@
+.nav-link {
+    text-decoration: none;
+    color: red;
+    font-size: 3em;
+    margin-right: 2em;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 3px dotted red;
+}
