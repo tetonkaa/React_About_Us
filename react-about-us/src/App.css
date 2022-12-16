@@ -16,6 +16,7 @@ h1 {
 
 body{
   background:linear-gradient(12deg, rgba(255,255,255,1) 0%, rgba(4,131,0,1) 82%);
+  height: 100vw;
 }
 .intro,
 .intro a{
