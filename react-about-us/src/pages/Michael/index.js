@@ -9,16 +9,23 @@ const Michael = () => {
             <h3>Bio</h3>
             <ul>
                 <ls>Snowboarding</ls>
+                <br/>
                 <ls>Cars</ls>
+                <br/>
                 <ls>Video Games</ls>
             </ul>
             <h3>Professional Skills</h3>
             <ul>
                 <ls>HTML</ls>
+                <br/>
                 <ls>CSS</ls>
+                <br/>
                 <ls>JavaScript</ls>
+                <br/>
                 <ls>MongoDB</ls>
+                <br/>
                 <ls>EJS</ls>
+                <br/>
                 <ls>React</ls>
             </ul>
         </div>
